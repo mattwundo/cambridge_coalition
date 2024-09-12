@@ -1,0 +1,6 @@
+cd /path/to/your/project    # navigate to your project folder
+git init                    # initialize git in your project folder
+git add .                   # stage all your files
+git commit -m "Initial commit"  # commit your files
+git remote add origin https://github.com/your-username/your-repo-name.git   # connect to your GitHub repo
+git push -u origin main     # push your code to GitHub
