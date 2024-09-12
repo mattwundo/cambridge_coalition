@@ -12,3 +12,14 @@ This platform is designed to help **SMEs** and **mid-cap businesses** gain bette
 - **Go-to-Market Strategy**: Consulting services for businesses entering new global markets.
 
 ## Project Structure
+## Setup Instructions
+
+### Prerequisites
+- **Python 3.x** (for backend)
+- **Flask** (if using Flask for backend)
+- **Heroku account** (for deployment)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
