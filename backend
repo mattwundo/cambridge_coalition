@@ -1,0 +1,11 @@
+my-project/
+├── backend/              # Your backend code (Flask, Node.js, etc.)
+│   ├── app.py            # Main Python backend file (Flask app)
+│   ├── requirements.txt  # Dependencies for the backend
+│   └── Procfile          # Heroku process file
+├── frontend/             # Your frontend code (HTML, CSS, JS)
+│   ├── index.html        # Main HTML file
+│   ├── styles.css        # CSS file
+│   └── app.js            # JavaScript file
+├── .gitignore            # Git ignore file
+└── README.md             # Project description
